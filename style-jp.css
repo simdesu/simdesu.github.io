@@ -22,7 +22,7 @@ a {
     justify-content: space-between;
   }
 
-.header-text {
+.jp-header-text {
     font-size: 4em;
     margin: 15px 0px 0px 40px;
     font-family: 'Noto Sans JP', sans-serif;
@@ -39,9 +39,9 @@ a {
     color: rgb(219, 199, 199);
   }
 
-.main-section-text {
+.jp-main-section-text {
     color: rgb(219, 199, 199);
-    font-size: 2em;
-    margin: 50px 0px 0px 50px;
+    font-size: 2.85em;
+    margin: 50px 0px 0px 25px;
 }
 
