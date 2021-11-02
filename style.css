@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgb(41, 40, 40);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(219, 199, 199);
+}
+
+a:hover {
+  color: rgb(109, 90, 90);
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5em;
+}
+
+.content-section {
+  margin: 1em;
+}
+
+
+.header-ul {
+  list-style: none;
+  display: inline;
+  margin: 30px 20px 0px 0px; /* top right bottom left */
+  font-size: 1.5em;
+  text-align: unset;
+  font-family: 'Poppins', sans-serif;
+  color: rgb(219, 199, 199);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-text {
+  font-size: 5em;
+  margin: -10px 0px 0px 40px;
+  font-family: 'Shadows Into Light', cursive, sans-serif;
+  color: rgb(219, 199, 199);
+}
+
+.main-section-text {
+  color: rgb(219, 199, 199);
+  font-size: 4em;
+  margin: 100px 0px 0px 0px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.desc {
+  color: rgb(219, 199, 199);
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 20px;
+
+}
+
+.ext-socials {
+  text-align: center;
+  color: rgb(219, 199, 199);
+  margin-top: 20px;
+  font-size: 4em;
+  font-family: 'Poppins', sans-serif;
+}
+
+.img-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 150;
+  width: 150;
+  align-items: center;
+}
