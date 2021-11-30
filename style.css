@@ -130,6 +130,10 @@ start index.html
   font-size: 70px;
 }
 
+.welcome-pick:last-child {
+  margin-top: 100px;
+}
+
 /*
 end index.html
 */
